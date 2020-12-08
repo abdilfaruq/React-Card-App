@@ -1,4 +1,4 @@
-# React-Card-App
+# React Card App
 **React Card App** is the card my favorite players football app built using HTML, CSS, and ReactJS.
 ### Live Demo
 https://abdilfaruq.github.io/CardApp/
